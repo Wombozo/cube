@@ -3,7 +3,7 @@ PI :
 x BARRE OPPOSES : R U2' R2' U' R2 U' R2' U2 R
 x DIAG OPPOSES : R U R' U' R' F R ( R U R' U')2 F'
 x OPPOSES DIAG : R' F2 R U2 R U2 R' F2 U' R U' R'
- 2 BARRES : R U' L' U R' U L U L' U L
+ 2 BARRES : r U' r' U' r U r' U' x' R2 U' R' U R' x 
 x 2 DIAG : R' U' F' R U R' U' R' F R2 U2 R' U2 R
 x OPPOSES BARRE : R U2' R' (R' F R F')3 R U2' R'
 
