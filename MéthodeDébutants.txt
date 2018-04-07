@@ -1,0 +1,26 @@
+Méthode pour les débutants
+
+1) Faire la croix de la face que vous préférez (la majorité des personnes prennent la blanche) : attention néanmoins à ce que les bords de la croix correspondent bien avec les  centres de face de la bonne couleur
+
+2) Insérer les coins qui correspondent : pour cela pas vraiment d'algorithme à apprendre, c'est assez instinctif
+
+3) Insérer ensuite les bords des faces, par exemple :
+
+vous avez votre face blanche faite, vous voulez insérer le bord commun aux faces rouge et bleu qui se situe sur la face jaune. Vous pouvez placer votre face blanche en bas mettre et faire correspondre le bord à insérer avec le centre de la face de la même couleur. Dans ce cas il faut donc mettre le bord en face du rouge ou du bleu en fonction de son orientation. 2 cas sont donc possibles :
+	
+	-le rouge correspond, vous devez donc insérer le bord vers la gauche, pour cela : U' L' U L (tournez le cube pour avoir la face bleu en face de vous ) U R U' R'
+	-le bleu correspond, insérer le bord vers la droite : U R' U' R (tournez le cube pour avoir le rouge en face) U' L' U L
+
+Si jamais le bord à inséré  n'est pas sur la face jaune, mais est déjà insérer à la place d'un autre bord vous pouvez faire la même méthode pour sortir un coin random et resortir le coin que vous voulez.
+
+4) Il faut ensuite faire la face jaune pour terminer le cube. Pour cela :
+
+	-avoir une croix jaune; pas forcément bien placée : si vous avez un point faire F R U R' U' F' puis f R U R' U' f',
+							    si vous avez une barre, la mettre à l'horizontale et faire F R U R' U' F'
+							    si vous avez un coude, le mettre en bas à droite et faire f R U R'U' f'
+
+	-bien placer sa croix : mettre un bord en face de la face qui correspond. 2 cas sont alors possibles : soit il faut déplacer les 3 bords dans le sens des aiguilles du montre ou dans le sens inverse. Sens des aiguilles : R U R' U R U2 R' U2, sens inverse R' U' R U' R' U2' R U2'
+
+	-il faut ensuite mettre les coins à la bonne place (sans pour autant bien les orienter pour l'instant'), si vous avez déjà un coin bien placé, le mettre en haut à gauche et faire R' L U L' U' R U L U' L' plusieurs fois jusqu'à ce que tous les coins soient bien placés.
+
+	-il faut ensuite bien les orienter : se placer sur n'importe quelle face de telle sorte à avoir 2 fois la même couleur pour les 2 coins mal placés et fiare les 2 algorithmes pour bien placer la croix àla suite (dans n'importe quel ordre) 
