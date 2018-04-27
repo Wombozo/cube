@@ -1,2 +1,3 @@
 30 (Ackward shape) : r' D' r U' r' D r2 U' r' U r U r' 
-55 (Bar) : R U2 R2 U' R U' R' U2 F R F' 
+55 (Bar)   : R' F R U R U' R2' F' R2 U' R' U R U R'
+PLL R perm : R2 F R U R U' R'  F' R  U2 R' U2 R
