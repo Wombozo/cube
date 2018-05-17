@@ -16,9 +16,9 @@ x BARRES HORIZONTALES : R U R' U R U' R' U R U2' R'
 
 T :
 
-y 2 HEADLIGHTS (TOP) : y' R U R' U R U2 R' U' R U2 R' U' R U' R' 
- 2 HEADLIGHTS (BACK) : R' U R U2 R' L' U R U' L 
- BARRE DROITE : y2 x' R U R' D R U' R' D' x 
+2 HEADLIGHTS (TOP) : y' R U R' U R U2 R' U' R U2 R' U' R U' R' 
+x 2 HEADLIGHTS (BACK) : y2 R U' R' U2 L R U' R' U L' 
+x BARRE DROITE : y2 x' R U R' D R U' R' D' x 
  BARRE TOP : y2 F R U R' U' R U' R' U' R U R' F' 
 x BARRE GAUCHE : y' r U R' U' r' F R F' 
  DOUBLE BARRE : R' U R2 D r' U2 r D' R2 U' R 
