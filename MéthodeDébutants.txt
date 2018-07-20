@@ -19,8 +19,8 @@ Si jamais le bord à inséré  n'est pas sur la face jaune, mais est déjà ins�
 							    si vous avez une barre, la mettre à l'horizontale et faire F R U R' U' F'
 							    si vous avez un coude, le mettre en bas à droite et faire f R U R'U' f'
 
-	-bien placer sa croix : mettre un bord en face de la face qui correspond. 2 cas sont alors possibles : soit il faut déplacer les 3 bords dans le sens des aiguilles du montre ou dans le sens inverse. Sens des aiguilles : R U R' U R U2 R' U2, sens inverse R' U' R U' R' U2' R U2'
+	-bien placer sa croix : mettre un bord en face de la face qui correspond. 2 cas sont alors possibles : soit il faut déplacer les 3 bords dans le sens des aiguilles du montre ou dans le sens inverse. Sens des aiguilles, bord correct sur la gauche ! : R U R' U R U2 R' U2, sens inverse bord correct également sur la gauche ! : R' U' R U' R' U2' R U2' (**)
 
 	-il faut ensuite mettre les coins à la bonne place (sans pour autant bien les orienter pour l'instant'), si vous avez déjà un coin bien placé, le mettre en haut à gauche et faire R' L U L' U' R U L U' L' plusieurs fois jusqu'à ce que tous les coins soient bien placés.
 
-	-il faut ensuite bien les orienter : se placer sur n'importe quelle face de telle sorte à avoir 2 fois la même couleur pour les 2 coins mal placés et fiare les 2 algorithmes pour bien placer la croix àla suite (dans n'importe quel ordre) 
+	-il faut ensuite bien les orienter : se placer sur n'importe quelle face de telle sorte à avoir 2 fois la même couleur pour les 2 coins mal orientés et faire les 2 algorithmes pour bien placer la croix (**) à la suite (dans n'importe quel ordre) 
